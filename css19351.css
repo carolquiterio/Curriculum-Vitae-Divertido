@@ -1,0 +1,124 @@
+ h1,h2{
+  font-size:40px;
+  color:#9900ff;
+}
+h3{
+  text-align: center;
+}
+body{
+  font-family: Arial;
+  color: #0c0909;
+  font-size:12px;
+}
+fieldset{
+ width: 70%;
+  align-self: auto;
+  background-color:#cebceb;  
+  position: absolute; 
+  left: 220px;  
+  float: left;
+}
+img{
+  position: absolute; 
+  left: 860px;  
+  float: left;
+  top: 20px;
+  width: 250px;
+  height: 150px;
+}
+.tituloSessao{
+  font-size:18px;
+  color: #2600ff;
+}
+.imgFiana{
+  width: 300px;
+  height: 300px;
+  position: absolute; 
+  left: 1220px;  
+  float: left;
+  top: 60px;
+}
+.imgAgua{
+  width: 300px;
+  height: 300px;
+  position: absolute; 
+  left: 800px;  
+  float: left;
+  top: 60px;
+}
+.imgCore{
+  width: 300px;
+  height: 300px;
+  position: absolute; 
+  left: 400px;  
+  float: left;
+  top: 60px;
+}
+.imgFlor{
+  width: 300px;
+  height: 300px;
+  position: absolute; 
+  left: 50px;  
+  float: left;
+  top: 60px;
+}
+.lia{
+  width: 5px;
+}
+.cabecaTabela{
+  border: 0;
+}
+.qb1{
+  width: 300px;
+  height: 300px;
+  position: absolute; 
+  left: 1220px;  
+  float: left;
+  top: 60px;
+}
+.qb2{
+  width: 300px;
+  height: 300px;
+  position: absolute; 
+  left: 800px;  
+  float: left;
+  top: 60px;
+}
+.qb3{
+  width: 300px;
+  height: 300px;
+  position: absolute; 
+  left: 400px; 
+  float: left;
+  top: 60px;
+}
+.qb4{
+  width: 300px;
+  height: 300px;
+  position: absolute; 
+  left: 50px;  
+  float: left;
+  top: 60px;
+}
+.campo {
+  margin-left: 50px;
+  border-radius: 5px; 
+}
+th{
+  color: #6d0368;
+  background-color: #e473d7;
+  font-size: 20px;
+}
+.par{
+  color: #0c4a91;
+  background-color: #9dbce5;
+}
+.impar{
+  color: #0d4e35;
+  background-color: #c9e59d;
+}
+label, input {
+  display: block;
+}
+
+/*span style="margin-left: 700px; padding-top:24px;" width="150" height="150" align="left"*/
